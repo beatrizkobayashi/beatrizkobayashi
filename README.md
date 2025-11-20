@@ -5,7 +5,7 @@
   
 </div>
 
-- 📙 I am currently studying **Mechatronics Engineering** at the **Federal Technological University of Paraná**;
+- 📙 I am currently studying **Mechatronics Engineering** at the **Federal University of Technology - Paraná**;
 - 👩🏻‍💻 I love learning new things, and currently I'm helping to develop an **open hardware UAV (Unmanned aerial vehicles)** in **ROS2**;
 - 💻 I have experience with **DevOps** and **embedded systems**.
 
