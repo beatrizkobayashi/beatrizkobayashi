@@ -17,7 +17,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,arduino,ros,opencv" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,cmake,powershell,git,linux,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,cmake,git,linux,windows" /><br>
 </div>
 
 ### ⚡ Stats
